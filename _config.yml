@@ -1,8 +1,8 @@
 title: MuniGuate
-greeting: Bienvenido a Datos Abiertos de la Municipalidad de Guatemala
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: Municipalidad de Guatemala
+description: Portal de Datos Abiertos
 baseurl: /jkan
-logo: /img/jkan.png
+logo: /img/muni.png
 
 # Site theme
 jkan_theme: Default
