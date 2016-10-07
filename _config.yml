@@ -2,7 +2,7 @@ title: MuniGuate
 greeting: Municipalidad de Guatemala
 description: Portal de Datos Abiertos
 baseurl: /jkan
-logo: /img/muni.png
+logo: /img/jkan.png
 
 # Site theme
 jkan_theme: Default
@@ -18,7 +18,7 @@ schema: default
 navigation:
   - title: Datasets
     url: /datasets/
-  - title: Organizations
+  - title: Organizaciones
     url: /organizations/
 
 # Collections
